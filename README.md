@@ -2,7 +2,7 @@
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
-##Elm
+## Elm
 
 - [Official Elm guide](https://guide.elm-lang.org/) by Evan Czaplicki
 - [Elm SPA example](https://github.com/rtfeldman/elm-spa-example) by Richard Feldman with corresponding [writeup](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
@@ -21,7 +21,7 @@
 - Online book: [Write You A Scheme, Version 2](https://www.wespiser.com/writings/wyas/home.html) by Adam Wespiser -> See this [Book](https://www.scheme.com/tspl4/) about Scheme Language, a Lisp dialect
 - Book: [Real World Haskell](http://book.realworldhaskell.org/) by Bryan O'Sullivan, Don Stewart, and John Goerzen
 
-#####Archived
+##### Archived
 
 - (Online book: [Yet Another Haskell Tutorial](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf) by Hal Daumé -> Haskell 98)
 - (Online book: [Write You A Scheme in 48 Hours](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf) by Jonathan Tang -> Version 2 exists)
