@@ -18,8 +18,8 @@
 - Search engine for functions: [Hoogle](https://hoogle.haskell.org/)
 - Linklist: [„Learning Haskell“ page](https://wiki.haskell.org/Learning_Haskell), especially the [Meta-Tutorial](https://wiki.haskell.org/Meta-tutorial)
 - Online book: [Learn you a haskell](http://learnyouahaskell.com) -> Well written, many function introductions
+- Online book: [Real World Haskell](http://book.realworldhaskell.org/read) by Bryan O'Sullivan, Don Stewart, and John Goerzen
 - Online book: [Write You A Scheme, Version 2](https://www.wespiser.com/writings/wyas/home.html) by Adam Wespiser -> See this [Book](https://www.scheme.com/tspl4/) about Scheme Language, a Lisp dialect
-- Book: [Real World Haskell](http://book.realworldhaskell.org/) by Bryan O'Sullivan, Don Stewart, and John Goerzen
 
 ##### Archived
 
