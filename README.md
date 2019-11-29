@@ -2,8 +2,8 @@
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
-## Elm
 
+## Elm
 - [Official Elm guide](https://guide.elm-lang.org/) by Evan Czaplicki
 - [Elm SPA example](https://github.com/rtfeldman/elm-spa-example) by Richard Feldman with corresponding [writeup](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 - [Talk: Life of a File](https://www.youtube.com/watch?v=XpDsk374LDE) by Evan Czaplicki
@@ -11,7 +11,7 @@
 
 
 ## Vue.js
-- [Video Course](https://www.vuemastery.com/courses/intro-to-vue-js) by 
+- [Video Course](https://www.vuemastery.com/courses/intro-to-vue-js) by
 
 
 ## Haskell
@@ -19,13 +19,11 @@
 - Linklist: [„Learning Haskell“ page](https://wiki.haskell.org/Learning_Haskell), especially the [Meta-Tutorial](https://wiki.haskell.org/Meta-tutorial)
 - Online book: [Learn you a haskell](http://learnyouahaskell.com) -> Well written, many function introductions
 - Online book: [Write You A Scheme, Version 2](https://www.wespiser.com/writings/wyas/home.html) by Adam Wespiser -> See this [Book](https://www.scheme.com/tspl4/) about Scheme Language, a Lisp dialect
-- Book: [Real World Haskell](http://book.realworldhaskell.org/) by Bryan O'Sullivan, Don Stewart, and John Goerzen
+- Online Book: [Real World Haskell](http://book.realworldhaskell.org/read) by Bryan O'Sullivan, Don Stewart, and John Goerzen
 
 ##### Archived
-
 - (Online book: [Yet Another Haskell Tutorial](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf) by Hal Daumé -> Haskell 98)
 - (Online book: [Write You A Scheme in 48 Hours](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf) by Jonathan Tang -> Version 2 exists)
-
 
 #### Practical / Tutorials
 - [Static Blog generator](https://github.com/soupi/hen)
@@ -40,7 +38,6 @@
 ## Rust
 - [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/) by Philipp Oppermann
 - [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/)
-
 
 
 ## Neural Networks and Machine Learning
@@ -65,4 +62,8 @@
 
 ## VHDL
 - [Nandland Tutorial](https://www.nandland.com/vhdl/tutorials/index.html) 
+
+
+## Cryptography
+- [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) by Gary C. Kessler
 
