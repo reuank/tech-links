@@ -63,6 +63,7 @@
 
 ### Advanced Concepts
 - [Transfer Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+- [Transfer Learning with PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 - [Data Augmentation](https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/)
 
 ### Interesting
